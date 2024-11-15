@@ -3,7 +3,11 @@
 **Scriptify Pro** elevates transcription and translation with browser-based machine learning, delivering precise results swiftly and securely for both personal and professional users. 
 
 ---
+## 🌐 Live Demo
 
+Check out the live demo here: [Scriptify Pro Demo](https://your-demo-link.com)
+
+---
 ## 🚀 Features
 
 - **Advanced Transcription**: Seamlessly transcribe audio files to text with high accuracy.
@@ -36,12 +40,6 @@
 - **Web Workers**: For background processing and fast computations
 - **Machine Learning**: Browser-based ML for transcription and translation
 - **UI/UX**: Enhanced user experience with smooth animations using Framer Motion
-
----
-
-## 🌐 Live Demo
-
-Check out the live demo here: [Scriptify Pro Demo](https://your-demo-link.com)
 
 ---
 
