@@ -16,14 +16,14 @@
 
 ## 🖼️ Screenshots
 
-### Transcription Interface
-![Transcription](./assets/1.png)
+### 1
+![1](./public/1.png)
 
-### Translation Interface
-![Translation](./assets/2.png)
+### 2
+![2](./public/2.png)
 
-### Browser-based ML Processing
-![ML Processing](./assets/3.png)
+### 3
+![3](./public/3.png)
 
 ---
 
